@@ -1,6 +1,6 @@
 token:
   expiration: 864000000 # 10 days
-  secret: salgu
+  secret: salgu-actuator
 
 gateway:
   ip: 192.168.35.123
