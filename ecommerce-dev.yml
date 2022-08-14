@@ -3,4 +3,4 @@ token:
   secret: salgu-dev#2
 
 gateway:
-  ip: 192.168.35.123
+  ip: 192.168.35.61
