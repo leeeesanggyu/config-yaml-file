@@ -9,3 +9,6 @@ orderService:
   uri: http://ORDER-SERVICE/order-service/%s/order
   exception:
     order_is_empty: user's orders is empty..
+    
+gateway:
+  ip: 172.18.0.7
